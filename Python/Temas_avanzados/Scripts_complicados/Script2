@@ -1,0 +1,17 @@
+def Score(Motifs):
+    consensus = Consensus(Motifs)
+    k = len(Motifs[0])
+    score = 0
+    for j in range(k):
+        for motif in Motifs:
+            if motif[j] != consensus[j]:
+                score += 1
+    return score
+def Profile(Motifs):
+    count = Count(Motifs)
+    t = len(Motifs)
+    profile = {}
+    for symbol in "ACGT":
+        profile[symbol] = [count[symbol][j] / t for j in range(len(count[symbol]))]
+    
+    return profile
