@@ -1,0 +1,3 @@
+Mutación puntual (A→T en la posición 6)
+Original: ATGGCTGACGTTGAG
+Mutado:   ATGGTTGACGTTGAG

@@ -1,0 +1,3 @@
+Inserción de una base (A) en la posición 9
+Original: ATGGCTGACGTTGAG
+Mutado:   ATGGCTGAACGTTGAG

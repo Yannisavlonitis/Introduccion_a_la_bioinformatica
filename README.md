@@ -63,9 +63,10 @@ Es el programa, desarrollado en python, que convierte una secuencia de DNA en la
 
 **2️⃣ - Secuencias de DNA de ejemplo**
 
-Varios ficheros de texto con secuencias de DNA que puedes copiar y pegar para ver el funcionamiento del programa.
+Esta carpeta contiene secuencias de ADN que pueden usarse para probar el funcionamiento del programa AminoLab.
+Incluye ejemplos sencillos, fragmentos de genes humanos y simulaciones de mutaciones puntuales.
 
-> Autor:
+> Autor: Tamara Noya Mosquera
 
 **3️⃣ - Documentación**
 
