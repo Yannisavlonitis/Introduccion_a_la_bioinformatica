@@ -1,0 +1,5 @@
+En ocasiones es descrita como la 2.ª ley, en caso de considerar solo dos leyes (criterio basado en que Mendel solo estudió la transmisión de factores hereditarios y no su dominancia/expresividad). Mendel concluyó que diferentes rasgos son heredados independientemente unos de otros, no existe relación entre ellos, por lo tanto el patrón de herencia de un rasgo no afectará al patrón de herencia de otro.
+
+Más tarde se descubriría que esta ley solo se cumple en aquellos genes que no están ligados ,es decir, que están en diferentes cromosomas, o que están en regiones muy separadas del mismo cromosoma. En este caso la descendencia sigue las proporciones.
+
+Representándolo con letras, de padres con dos características AALL y aall (donde cada letra representa una característica y la dominancia por la mayúscula o minúscula), por entrecruzamiento de razas puras (1.ª Ley), aplicada a dos rasgos, resultarían los siguientes gametos: Al x aL = AL, Al, aL, al.
