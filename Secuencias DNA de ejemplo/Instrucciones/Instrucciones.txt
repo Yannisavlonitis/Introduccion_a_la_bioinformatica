@@ -1,0 +1,30 @@
+INSTRUCCIONES PARA USO DE LAS SECUENCIAS DE DNA
+
+Esta carpeta contiene secuencias de ADN de ejemplo para probar el programa AminoLab
+y practicar con scripts en Python.
+
+Pasos sugeridos:
+
+1. Abrir cualquiera de los archivos de secuencia (.txt) en las subcarpetas:
+   - Ejemplos_basicos
+   - Genes_reales
+   - Simulaciones
+
+2. Copiar la secuencia y pegarla en AminoLab para traducir a proteína,
+   siguiendo las instrucciones del programa principal.
+
+3. Alternativamente, ejecutar el script de ejemplo Ejemplo_traduccion.py:
+   - Abre tu terminal o IDE de Python.
+   - Navega a la carpeta 'Secuencias de DNA de ejemplo'.
+   - Ejecuta: python Ejemplo_traduccion.py
+   - Observa la salida en la terminal.
+
+Subcarpetas y contenido:
+
+- Ejemplos_basicos: secuencias cortas y sencillas para practicar la traducción.
+- Genes_reales: fragmentos de genes humanos obtenidos de bases de datos públicas.
+- Simulaciones: secuencias con mutaciones puntuales, inserciones o deleciones.
+
+Este archivo sirve como guía rápida para usar las secuencias y el script
+de ejemplo, sin modificar los archivos principales del repositorio.
+
