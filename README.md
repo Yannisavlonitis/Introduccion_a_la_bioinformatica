@@ -11,7 +11,7 @@ Convierte las bases nitrogenadas de ADN (`A`, `T`, `C`, `G`) a ARN mensajero (`A
 
 2. Desde la carpeta donde está contenido el programa, ejecútalo de la siguiente manera:
 
-   		python traductor.py
+   		python AminoLab.py
 
 3. El programa te pedirá tu secuencia de DNA, escríbela o pégala a continuación.
 
