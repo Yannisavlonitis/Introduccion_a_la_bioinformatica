@@ -6,7 +6,7 @@ Convierte las bases nitrogenadas de ADN (`A`, `T`, `C`, `G`) a ARN mensajero (`A
 ## 🤓 ¿Cómo usar este repositorio?
 1. Clona este repositorio a través de tu terminal:
 
-		git clone https://github.com/Yannisavlonitis/AminoLab-Software-Traductor-de-DNA-a-Prote-na
+		git clone https://github.com/Yannisavlonitis/AminoLab.git
 
 
 2. Desde la carpeta donde está contenido el programa, ejecútalo de la siguiente manera:
